@@ -1,0 +1,27 @@
+    h1, ul, li { 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: grey;
+
+    }
+
+    div, p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(135, 180, 247);
+        display: inline-block;
+        font-size: 40px;
+        border: 1px solid grey;
+        border-radius: 6px;
+        padding: 10px 20px;
+        margin-top: 20px;
+        cursor: pointer;
+    }
+
+
+    .meu-btn-cinza{
+        background-color: rgb(255, 255, 255);
+    }
+
+    .meu-btn-cinza:hover {
+        color: rgb(145, 165, 253);
+        background-color: grey;
+    }    
